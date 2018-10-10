@@ -4,6 +4,9 @@
 4) Self leaders challange assumed constraints, activate their points of power and are proactive about getting what they need to succeed. (1)
 5) The two most powerful words to get what you need to succeed are "I NEED". (1)
 6) Empowerement is something someone gives you. Self leadership is what you do to make it work. (1)
+7) A person who does not have a goal is used by someone who does. (1)
+8) Ultimately, it is in your best interest to accept responsibility for getting what you need to succeed in life. (1)
+9) Not realizing your own power might be the biggest assumed constraint. (1)
 
 *REFERENCES*<br>
 (1) One-Minute Manager and Self Leadership
