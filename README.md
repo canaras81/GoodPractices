@@ -1,2 +1,3 @@
 # GoodPractices
-Good Coding Practices
+Good Practices for Anything..
+Mostly about Coding though..
