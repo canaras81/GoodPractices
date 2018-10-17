@@ -2,3 +2,4 @@
 2) Class getters should be const functions.
 3) Class setters' input parameters should be const references (e.g. const int &)
 4) If you have a user-defined destructor, then you most probably need a user-defined copy constructor and assignment operator too.
+5) If you have a continuous enumeration (e.g. 0,1,2,...) without any special value assignments, then add <ENUM_NAME>\_LAST as the last element so that any value larger than that can right away be rejected by the users of the enum by comparing with <ENUM_NAME>\_LAST value.
