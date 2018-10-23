@@ -10,5 +10,5 @@
 10) Learn to "get to action", "adapt to change", "learn". (2)
 
 *REFERENCES*<br>
-(1) One-Minute Manager and Self Leadership
-(2) https://www.dannyforest.com/blog/the-3-most-important-skills-to-learn-now-to-thrive-in-2019
+1) One-Minute Manager and Self Leadership
+2) https://www.dannyforest.com/blog/the-3-most-important-skills-to-learn-now-to-thrive-in-2019
