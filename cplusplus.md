@@ -6,6 +6,7 @@
 5) If you have a continuous enumeration (e.g. 0,1,2,...) without any special value assignments, then add <ENUM_NAME>\_LAST as the last element so that any value larger than that can right away be rejected by the users of the enum by comparing with <ENUM_NAME>\_LAST value.
 6) Do a final review of your newly created classes to answer the questions: Should your objects be copy-able? Assignable? Compareable? If the answer to any is NO, then declare the related member function as private in the class.
 7) If a function takes both input and output parameters in its parameter list, its signature should list the output variables first.
+8) If a free function is only locallyy being used (that is only called by the other functions in the same file), then consider defining the free function as "static".
 
 **GOOD TO KNOW**
 1) "inline" specifier can be used to tell a confused compiler (multiply-defined symbols) to trust the developer and use any of the symbol's instances for a function that is "defined, not just declared" in a header file.
